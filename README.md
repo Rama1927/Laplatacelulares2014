@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tecnocel | Reparación y Venta de Celulares</title>
+    <title> La Plata Celulares | Reparación y Venta de Celulares</title>
     <style>
         body {
             font-family: 'Segoe UI', sans-serif;
@@ -149,6 +149,7 @@
     <section id="servicios">
         <h2>Servicios de Reparación</h2>
         <ul>
+
             <li>Cambio de pantallas rotas</li>
             <li>Reemplazo de batería</li>
             <li>Reparación de puertos de carga</li>
@@ -157,18 +158,18 @@
     </section>
 
     <section id="ventas">
-        <h2>Teléfonos en Venta</h2>
+        <h2>Teléfonos en Venta 2214949001</h2>
         <div class="galeria">
             <div class="producto">
-                <img src="https://via.placeholder.com/200x200?text=iPhone+12" alt="iPhone 12">
+                <img src="https://via.placeholder.com/200x200?text=Redmi A5" alt="Redmi A5">
                 <p>iPhone 12 - $500</p>
             </div>
             <div class="producto">
-                <img src="https://via.placeholder.com/200x200?text=Samsung+S21" alt="Samsung S21">
+                <img src="https://via.placeholder.com/200x200?text=Motorola G55" alt=" Motorola G55">
                 <p>Samsung Galaxy S21 - $450</p>
             </div>
             <div class="producto">
-                <img src="https://via.placeholder.com/200x200?text=Motorola+G30" alt="Motorola G30">
+                <img src="https://via.placeholder.com/200x200?text=Redmi 14C" alt="Redmi 14C">
                 <p>Motorola G30 - $200</p>
             </div>
         </div>
@@ -177,8 +178,8 @@
     <section id="contacto">
         <h2>Contacto</h2>
         <form action="mailto:tu-email@ejemplo.com" method="POST" enctype="text/plain">
-            <input type="text" name="nombre" placeholder="Tu nombre" required>
-            <input type="email" name="email" placeholder="Tu correo electrónico" required>
+            <input type="text" name="nombre" placeholder="Celulares La Plata 2014" required>
+            <input type="email" name="email" placeholder="celulareslaplta2014@hotmail.com" required>
             <textarea name="mensaje" rows="4" placeholder="Tu mensaje..." required></textarea>
             <button type="submit">Enviar</button>
         </form>
@@ -187,17 +188,17 @@
     <!-- Botón de WhatsApp -->
     <a 
         class="whatsapp-btn" 
-        href="https://wa.me/5491123456789" 
+        href="https://wa.me/5492214949001" 
         target="_blank" 
         title="Contáctanos por WhatsApp">
         💬
     </a>
 
     <footer>
-        <p>&copy; 2025 Tecnocel | Todos los derechos reservados</p>
+        <p>&copy; Celulares La Plata 2014 | Todos los derechos reservados</p>
         <div class="social-icons">
-            <a href="https://facebook.com" target="_blank">Facebook</a> |
-            <a href="https://instagram.com" target="_blank">Instagram</a>
+            <a href="https://facebook.com" target="celulareslaplata2014@hotmail.com">Facebook</a> |
+            <a href="https://instagram.com" target="/laplatacelulares?igshid=hsu2zwci7hlh">Instagram</a>
         </div>
     </footer>
 
